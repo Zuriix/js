@@ -4,7 +4,7 @@ const client = new RPC.Client({transport: 'ipc'});
 
 const CONFIG = {
     // Client Settings
-    clientId: '962642096639074304',
+    clientId: '962673804432244777',
 
     // RPC Options
     timeFormat: 'hh:mm:ss A',
